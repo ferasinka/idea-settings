@@ -1,0 +1,26 @@
+<scheme name="ferasinka" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="fafafa" />
+    <option name="NOTIFICATION_BACKGROUND" value="" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
+  </attributes>
+</scheme>

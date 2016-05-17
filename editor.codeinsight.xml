@@ -1,0 +1,11 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+  </component>
+</application>
