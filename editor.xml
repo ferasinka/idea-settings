@@ -6,6 +6,7 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssColorPreviewInGutter" value="false" />
