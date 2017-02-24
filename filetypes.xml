@@ -7,6 +7,7 @@
       <mapping pattern="ZipCreateCommand" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="xdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
