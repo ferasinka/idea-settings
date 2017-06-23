@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/5fcb85ff_spring-jdbc.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/946a6b65_spring-tool-4.3.xsd" />
+  </component>
+</application>
