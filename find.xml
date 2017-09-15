@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'prospring4-mvc'" />
-    <option name="defaultScopeName" value="Project 'prospring4-mvc'" />
+    <option name="customScope" value="Project 'TestProject'" />
+    <option name="defaultScopeName" value="Project 'TestProject'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'prospring4-mvc'" />
+    <option name="SEARCH_SCOPE" value="Project 'TestProject'" />
   </component>
 </application>
