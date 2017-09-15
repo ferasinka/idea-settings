@@ -77,5 +77,17 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="stomp" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_stomp.js_2.3.2_stomp.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_stomp.js_2.3.2_stomp.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
