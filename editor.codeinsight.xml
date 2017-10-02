@@ -6,8 +6,6 @@
     <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
     <option name="ADD_IMPORTS_ON_PASTE" value="2" />
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseOneLineMethods" value="false" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
 </application>
