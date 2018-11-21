@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ZipCreateCommand" type="PLAIN_TEXT" />
@@ -11,7 +12,6 @@
       <mapping pattern="h2db" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="xdb" type="PLAIN_TEXT" />
     </extensionMap>
